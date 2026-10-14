@@ -10,7 +10,9 @@ Bienvenue ! Ce dépôt est mon premier projet sur GitHub. Il me sert à apprendr
 
 ## Contenu
 
-Pour l'instant, ce dépôt ne contient que ce fichier. D'autres fichiers (notes, scripts, pages web) seront ajoutés au fur et à mesure.
+- [Liste de courses](courses.md) : ma liste de courses
+
+D'autres fichiers (notes, scripts, pages web) seront ajoutés au fur et à mesure.
 
 ## Comment modifier ce fichier
 
